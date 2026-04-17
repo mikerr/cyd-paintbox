@@ -1,2 +1,4 @@
 # cyd-paintbox
-Drawing / paint app for CYD tocuh
+Drawing / paint app for CYD touch
+
+![](paintbox.jpg)
